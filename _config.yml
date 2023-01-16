@@ -39,15 +39,15 @@ features                                  :
     description                           : Create your own meditation sessions by selecting from a variety of sound clips, including nature sounds, guided meditations, and ambient music. Choose the perfect combination to help you relax and focus.
     fontawesome_icon_name                 : magic
     
-  - title                                 : A library of sound clips to choose from
+  - title                                 : +1000 sound clips to choose from
     description                           : Our app offers a diverse range of sounds to choose from, including birds singing, ocean waves, and rain. You can also choose guided meditations and ambient music to help you relax and focus.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Timer and session length options
     description                           : Set the length of your meditation session and use the timer feature to keep track of your time. You can also set reminders to help establish a consistent meditation practice.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : fa-regular fa-timer
 
-  - title                                 : Save and name your personal configurations in the cloud
+  - title                                 : Save your personal configurations in the cloud
     description                           : Once you have created your perfect meditation, you can save it in the cloud or locally for easy access in the future.
     fontawesome_icon_name                 : fa-solid fa-cloud
 
@@ -55,28 +55,28 @@ features                                  :
     description                           : Our app will send you daily reminders and notifications to help establish a consistent meditation practice.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : A user-friendly interface and easy navigation
+  - title                                 : User-friendly interface and easy navigation
     description                           : The app has an intuitive and easy to use interface, making it easy to find the perfect meditation session for you.
     fontawesome_icon_name                 : star
 
-  - title                                 : A variety of languages support
-    description                           : The app supports multiple languages, allowing you to meditate in the language that you feel most comfortable with.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Set goals and track progress
+    description                           : Keep track of your progress and set goals for your meditation practice.
+    fontawesome_icon_name                 : fa-duotone fa-chart-mixed
 
   - title                                 : Integration with other apps and wearables
     description                           : Our app can integrate with other apps and wearables, such as fitness trackers, to provide a more comprehensive view of your wellness.
     fontawesome_icon_name                 : link
 
-  - title                                 : A social feature to share your custom meditations with friends
-    description                           : Share your custom meditations with friends and family, and discover new meditations created by other users.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Share your custom meditations
+    description                           : Share your custom meditations with friends and family, or discover new meditations created by other users.
+    fontawesome_icon_name                 : fa-duotone fa-share-nodes
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 # Another feature:
-# Progress tracking and the ability to set goals: Keep track of your progress and set goals for your meditation practice.
+# A variety of languages support: The app supports multiple languages, allowing you to meditate in the language that you feel most comfortable with.
 
 
 # Theme Settings
