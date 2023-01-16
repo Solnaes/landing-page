@@ -13,7 +13,7 @@ presskit_download_link                    : https://google.com                  
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Sereness
 app_price                                 : $14.99
-app_description                           : Meditate your way with Sereness, \n the customizeable meditation app that allows you to craft your own peaceful experience
+app_description                           : Meditate your way with Sereness, the customizeable meditation app that allows you to craft your own peaceful experience
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -47,9 +47,9 @@ features                                  :
     description                           : Set the length of your meditation session and use the timer feature to keep track of your time. You can also set reminders to help establish a consistent meditation practice.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : The ability to save and name your personal meditations
-    description                           : Once you have created your perfect meditation, you can save it and give it a name for easy access in the future.
-    fontawesome_icon_name                 : sync
+  - title                                 : Save and name your personal configurations in the cloud
+    description                           : Once you have created your perfect meditation, you can save it in the cloud or locally for easy access in the future.
+    fontawesome_icon_name                 : fa-solid fa-cloud
 
   - title                                 : Daily reminders and notifications
     description                           : Our app will send you daily reminders and notifications to help establish a consistent meditation practice.
