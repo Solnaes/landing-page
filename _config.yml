@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    : https://google.com                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Sereness                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Sereness
+app_price                                 : $14.99
+app_description                           : Meditate your way
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,46 +35,48 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Customizable meditation sessions
+    description                           : Create your own meditation sessions by selecting from a variety of sound clips, including nature sounds, guided meditations, and ambient music. Choose the perfect combination to help you relax and focus.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : A library of sound clips to choose from
+    description                           : Our app offers a diverse range of sounds to choose from, including birds singing, ocean waves, and rain. You can also choose guided meditations and ambient music to help you relax and focus.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Timer and session length options
+    description                           : Set the length of your meditation session and use the timer feature to keep track of your time. You can also set reminders to help establish a consistent meditation practice.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : The ability to save and name your personal meditations
+    description                           : Once you have created your perfect meditation, you can save it and give it a name for easy access in the future.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Daily reminders and notifications
+    description                           : Our app will send you daily reminders and notifications to help establish a consistent meditation practice.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : A user-friendly interface and easy navigation
+    description                           : The app has an intuitive and easy to use interface, making it easy to find the perfect meditation session for you.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : A variety of languages support
+    description                           : The app supports multiple languages, allowing you to meditate in the language that you feel most comfortable with.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Integration with other apps and wearables
+    description                           : Our app can integrate with other apps and wearables, such as fitness trackers, to provide a more comprehensive view of your wellness.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : A social feature to share your custom meditations with friends
+    description                           : Share your custom meditations with friends and family, and discover new meditations created by other users.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
+# Another feature:
+# Progress tracking and the ability to set goals: Keep track of your progress and set goals for your meditation practice.
 
 
 # Theme Settings
@@ -106,12 +108,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
 
 
 
