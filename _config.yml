@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Timer and session length options
     description                           : Set the length of your meditation session and use the timer feature to keep track of your time. You can also set reminders to help establish a consistent meditation practice.
-    fontawesome_icon_name                 : fa-regular fa-timer
+    fontawesome_icon_name                 : fa-solid fa-clock
 
   - title                                 : Save your personal configurations in the cloud
     description                           : Once you have created your perfect meditation, you can save it in the cloud or locally for easy access in the future.
@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Set goals and track progress
     description                           : Keep track of your progress and set goals for your meditation practice.
-    fontawesome_icon_name                 : fa-duotone fa-chart-mixed
+    fontawesome_icon_name                 : fa-solid fa-chart-column
 
   - title                                 : Integration with other apps and wearables
     description                           : Our app can integrate with other apps and wearables, such as fitness trackers, to provide a more comprehensive view of your wellness.
@@ -69,7 +69,7 @@ features                                  :
 
   - title                                 : Share your custom meditations
     description                           : Share your custom meditations with friends and family, or discover new meditations created by other users.
-    fontawesome_icon_name                 : fa-duotone fa-share-nodes
+    fontawesome_icon_name                 : fa-solid fa-share-nodes
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
